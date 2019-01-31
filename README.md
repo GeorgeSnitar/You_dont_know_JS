@@ -1,11 +1,11 @@
 # Вы не знаете JS (серия книг) 
 
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920026327.do"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033738.do"><img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033745.do"><img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033752.do"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033769.do"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
+ <img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
+ <img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
+ <img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
+ <img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
+ <img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
+ <img src="es6 %26 beyond/cover.jpg" width="75"></a>
  
 
 ## Содержание
