@@ -1,12 +1,11 @@
 # Вы не знаете JS (серия книг) 
 
- <img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
- <img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
- <img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
- <img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
- <img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
- <img src="es6 %26 beyond/cover.jpg" width="75"></a>
- 
+ <img src="up %26 going/cover.jpg" width="75">&nbsp;
+ <img src="scope %26 closures/cover.jpg" width="75">&nbsp;
+ <img src="this %26 object prototypes/cover.jpg" width="75">&nbsp;
+ <img src="types %26 grammar/cover.jpg" width="75">&nbsp;
+ <img src="async %26 performance/cover.jpg" width="75">&nbsp;
+ <img src="es6 %26 beyond/cover.jpg" width="75"> 
 
 ## Содержание
 
